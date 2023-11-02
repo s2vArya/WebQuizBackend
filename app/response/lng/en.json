@@ -1,0 +1,12 @@
+{
+  "SAVE_USER": "User added successfully.",
+  "FRIENDS_LIST":"Friends list fetched successfully.",
+  "EMAIL_NOT_EXIST":"Email is not unauthorised.",
+  "PASSWORD_MISMATCH":"Wrong Email or Password.",
+  "INTERNAL_SERVER_ERROR":"Internal Server Error.",
+  "LOGIN_SUCCESSFUL":"Logged in successfully.",
+  "EMAIL_ALREADY_EXISTS":"Email already exists.",
+  "ADMIN_ADDED":"Admin added successfully.",
+  "LOGOUT_SUCCESSFUL":"Logged out successfully",
+  "QUESTIONS_ADDED":"Question Answers added successfully"
+}
